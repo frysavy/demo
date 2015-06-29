@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.1",
+        "php": ">=5.4.0",
         "nette/nette": "~2.2",
         "obo/obo": "dev-master",
         "obo/data-storage-dibi": "dev-master",
